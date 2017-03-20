@@ -1,0 +1,10 @@
+D:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.exe.config
+D:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.exe
+D:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.pdb
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.csprojResolveAssemblyReference.cache
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.Properties.Resources.resources
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.csproj.GenerateResource.Cache
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.exe
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.pdb
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.CTS.resources
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.Form1.resources
