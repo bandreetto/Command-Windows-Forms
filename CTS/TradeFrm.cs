@@ -99,22 +99,25 @@
         public void CancelTrade()
         {
             Cancel.Execute();
-            MessageBox.Show(this, @"Boleta Cancelada com Sucesso!");
+            MessageBox.Show(this, @"Trade Cancelado com Sucesso!");
             Close();
+            Dispose();
         }
 
         public void ReleaseTrade()
         {
             Release.Execute();
-            MessageBox.Show(this, @"Boleta Exportada com Sucesso!");
+            MessageBox.Show(this, @"Trade Exportado com Sucesso!");
             Close();
+            Dispose();
         }
 
         public void SaveTrade()
         {
             Save.Execute();
-            MessageBox.Show(this, @"Boleta Salva com Sucesso!");
+            MessageBox.Show(this, @"Trade Salvo com Sucesso!");
             Close();
+            Dispose();
         }
     }
 }
