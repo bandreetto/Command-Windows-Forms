@@ -1,33 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace CTS
+﻿namespace CTS
 {
+    using System;
+    using System.Windows.Forms;
+    using Commands;
+
     public partial class CTS : Form
     {
-        public TradeFrm TradeFrm { get; set; }
-        public Trade Trade { get; set; }
-
         public CTS()
         {
             InitializeComponent();
-            Trade = new Trade();
-
+            Trade = new Trade
+            {
+                Id = 1,
+                Status = TradeStatus.Draft
+            };
         }
+
+        public TradeFrm TradeFrm { get; set; }
+        public Trade Trade { get; set; }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            TradeFrm = new TradeFrm(Trade);
-            TradeFrm.Save = new SaveCommand(TradeFrm);
-            TradeFrm.Cancel = new CancelCommand(TradeFrm);
-            TradeFrm.Release = new ReleaseCommand(TradeFrm);
+            TradeFrm = new TradeFrm(Trade)
+            {
+                Save = new SaveCommand(),
+                Cancel = new CancelCommand(),
+                Release = new ReleaseCommand()
+            };
             TradeFrm.ShowDialog();
         }
     }

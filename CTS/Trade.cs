@@ -6,3 +6,4 @@
         public TradeStatus Status { get; set; }
     }
 }
+ 

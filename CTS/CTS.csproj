@@ -45,18 +45,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CancelCommand.cs" />
+    <Compile Include="Commands\CancelCommand.cs" />
     <Compile Include="CTS.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CTS.Designer.cs">
       <DependentUpon>CTS.cs</DependentUpon>
     </Compile>
-    <Compile Include="ITradeCommand.cs" />
+    <Compile Include="Commands\ITradeCommand.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReleaseCommand.cs" />
-    <Compile Include="SaveCommand.cs" />
+    <Compile Include="Commands\ReleaseCommand.cs" />
+    <Compile Include="Commands\SaveCommand.cs" />
     <Compile Include="Trade.cs" />
     <Compile Include="TradeFrm.cs">
       <SubType>Form</SubType>

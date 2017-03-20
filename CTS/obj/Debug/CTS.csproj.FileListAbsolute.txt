@@ -8,3 +8,13 @@ D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.exe
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.pdb
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.CTS.resources
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.TradeFrm.resources
+C:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.exe.config
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.exe
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.pdb
+C:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.exe
+C:\Projetos\Command-Windows-Forms\CTS\bin\Debug\CTS.pdb
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.csprojResolveAssemblyReference.cache
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.CTS.resources
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.Properties.Resources.resources
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.TradeFrm.resources
+C:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.csproj.GenerateResource.Cache
