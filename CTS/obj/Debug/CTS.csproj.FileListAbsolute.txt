@@ -7,4 +7,4 @@ D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.csproj.GenerateResource.Cach
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.exe
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.pdb
 D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.CTS.resources
-D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.Form1.resources
+D:\Projetos\Command-Windows-Forms\CTS\obj\Debug\CTS.TradeFrm.resources

@@ -12,14 +12,17 @@ namespace CTS
 {
     public partial class CTS : Form
     {
+        public TradeFrm TradeFrm { get; set; }
+
         public CTS()
         {
             InitializeComponent();
+            TradeFrm = new TradeFrm();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            TradeFrm.ShowDialog();
         }
     }
 }

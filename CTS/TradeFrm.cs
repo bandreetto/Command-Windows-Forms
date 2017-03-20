@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CTS
 {
-    public partial class Form1 : Form
+    public partial class TradeFrm : Form
     {
-        public Form1()
+        public TradeFrm()
         {
             InitializeComponent();
         }
